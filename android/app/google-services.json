@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253126900408",
+    "project_id": "parcialdiferido",
+    "storage_bucket": "parcialdiferido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253126900408:android:d452e71206576d1f5ed24d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_parcial_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu10OVQ_JYA66nKth_Ir755AVYWfxVqn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
